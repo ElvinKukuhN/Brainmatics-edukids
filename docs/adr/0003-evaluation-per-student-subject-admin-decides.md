@@ -1,0 +1,3 @@
+# Evaluation is per Student and Subject, and the Admin decides promotion
+
+Scores and Attendance belong to a Student in a Subject, not to a Class. If a Student is moved between Classes mid-period, all their results still count toward that Evaluation Period. At the end of each period the system produces a Level Recommendation (every Competency Aspect at or above the Pass Threshold and Attendance at or above the Minimum Attendance), but promotion is never automatic. The Admin records the Level Decision and can override the recommendation with a written reason. Automatic promotion was rejected because tutors' judgement and incomplete data (an Aspect with no Scores) have to be able to outweigh a calculated average.
